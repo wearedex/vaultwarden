@@ -3,10 +3,10 @@ entries:
   vaultwarden:
   - apiVersion: v2
     appVersion: 1.30.3
-    created: "2024-03-09T13:15:05.739098-05:00"
+    created: "2024-03-09T18:15:50.592996-05:00"
     description: vaultwarden is an unofficial Bitwarden-compatible server written
       in Rust
-    digest: ba57503895b3e49ca618629ae9618c8d4bd81ea864c5d99852e6cc516b80ed4f
+    digest: 19ec5507d90cadeafc42c56ba32c9f515ccd85a13111f60f0a9b044c8ca8a279
     keywords:
     - Rust
     - vaultwarden
@@ -23,4 +23,4 @@ entries:
     urls:
     - https://wearedex.github.io/vaultwarden/vaultwarden-0.22.5.tgz
     version: 0.22.5
-generated: "2024-03-09T13:15:05.736442-05:00"
+generated: "2024-03-09T18:15:50.588318-05:00"
